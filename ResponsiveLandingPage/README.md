@@ -10,3 +10,4 @@
 * React router
 * Node.js
 * Tailwind CSS
+> Note: This project is built with Vite with React + Typescript.
