@@ -7,7 +7,7 @@ The project uses React with Typescript for managing UI along with Tailwind CSS f
 
 ## Project Dependencies
 
--React + typescript
--Node.js as runtime environment for local development
--Tailwind CSS
+- React + typescript
+- Node.js as runtime environment for local development
+- Tailwind CSS
 
