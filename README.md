@@ -5,4 +5,9 @@ The project uses React with Typescript for managing UI along with Tailwind CSS f
 
 > Note:-Project Setup and running instructions are present inside the folder in a separate README.md
 
+## Project Dependencies
+
+-React + typescript
+-Node.js as runtime environment for local development
+-Tailwind CSS
 
